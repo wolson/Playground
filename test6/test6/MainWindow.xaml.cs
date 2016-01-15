@@ -13,9 +13,7 @@ namespace test6
         private string MainText { get; set; }
         public MainWindow()
         {
-            
             InitializeComponent();
-            MainText = "Welcome to Test VI";
         }
     }
 }
