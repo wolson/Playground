@@ -14,6 +14,7 @@ namespace test6
         public MainWindow()
         {
             InitializeComponent();
+            MainText = "This is the main text.";
         }
     }
 }
